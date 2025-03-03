@@ -1,4 +1,3 @@
-
 local file = assert(io.open("day1/input.txt", "rb"))
 local line = assert(file:lines())
 
